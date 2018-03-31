@@ -6,6 +6,7 @@ Schedule:</br>
 2018/03/19-2018/03/25: Rock, paper, scissors</br>
 <ul><li>https://www.evernote.com/l/Aqc9YZU30ARNZY57xDQ-IUA0hTyLhmdRdS4</li></ul>
 2018/03/26-2018/04/01: Number Bumb</br>
+<ul><li>https://www.evernote.com/l/Aqd9pQD26kZLJLa0BvHaFoNx7AUt8itqq20</li></ul>
 2018/04/02-2018/04/08: Calculator</br>
 2018/04/09-2018/04/15: Timer</br>
 2018/04/16-2018/04/22: Puzzle</br>
