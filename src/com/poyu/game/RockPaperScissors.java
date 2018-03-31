@@ -38,7 +38,7 @@ public class RockPaperScissors {
 	private final int imgWeight = 120;
 	private final int imgHeight = 120;
 	
-	public RockPaperScissors() throws IOException {
+	public RockPaperScissors() {
 		frame = new JFrame(title);
 		types = new ArrayList<TypeButton>();
         options = new String[][] {
